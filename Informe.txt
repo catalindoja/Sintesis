@@ -14,6 +14,8 @@ grafica simple que es demana en el enunciat del credit de sintesis.
 - He fet un esquema a paper de com quedarien les taules a la base de dades SQL.
 - He creat el script de les taules SQL.
 - He passat al ordinador els esquemes UML.
-- He fet els inserts a les taules SQL.
+- Estic passant els inserts a les taules SQL.
 - He començat el apartat de Visual Basic amb ADO.Net del credit de sintesis ja que tinc la base de dades creada i funcional.
-
+- He acabat el apartat de SQL despres de modificar varies vegades algunes taules per adaptar-les millor per al Visual Studio.
+- He creat el diagrama de la base de dades.
+- He començat la part de Visual Basic.
