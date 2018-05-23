@@ -23,7 +23,11 @@ grafica simple que es demana en el enunciat del credit de sintesis.
 - He començat amb java.
 
 Setmana del 21-23:
-- Continuant amb java. Ja tinc la classe Combinacio feta i he refactoritzat part del codi per utilitzar funcions dintre de la classe Aposta. Ara mateix el problema principal es que la classe Aposta depen massa de la classe Sorteig per tant he de començar a fer-la tambe.
-
+- Continuant amb java. Ja tinc la classe Combinacio feta i he refactoritzat part del codi per utilitzar funcions dintre de la classe Aposta.
+Ara mateix el problema principal es que la classe Aposta depen massa de la classe Sorteig per tant he de començar a fer-la tambe.
+- Modificacions al projecte de Visual Basic ho tenia fet per IDs i ara ho he canviat per noms.
+- He acabat gran part del programa de Java simplement tinc que acabar la classe Sorteig.
+- He acabat Java i he fet el JavaDoc.
+- Ara estic fent el manual de Java. Segurament intentare fer una documentacio definitiva on figuri tot el contingut de sintesis. Si tinc temps ho penso fer.
 
 
