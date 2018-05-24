@@ -29,5 +29,7 @@ Ara mateix el problema principal es que la classe Aposta depen massa de la class
 - He acabat gran part del programa de Java simplement tinc que acabar la classe Sorteig.
 - He acabat Java i he fet el JavaDoc.
 - Ara estic fent el manual de Java. Segurament intentare fer una documentacio definitiva on figuri tot el contingut de sintesis. Si tinc temps ho penso fer.
-
+- He fet un fitxer de proves de JUnit encara que no se si esta ben fet, però ho he provat de fer.
+- Estic passant tots els manuals a pdf i he decidit fer una memoria final del projecte. Aixi quedara tot figurat allà.
+- Projecte finalitzat. Moltes gràcies al professors per la oportunitat de fer un projecte amb mes volum en quant a codi i que necessitava un esforç mes elevat per dur a terme.
 
